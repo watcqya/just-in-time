@@ -2,7 +2,7 @@
 
 BandwagonHost（搬瓦工）作为老牌VPS服务商，凭借稳定的CN2 GIA线路和高性价比套餐深受中国用户青睐。本文整理2025年10月最新可用优惠码、全套餐价格对比及详细测评，帮助选择最适合的VPS方案。
 
-![Uploading image.png…]()
+<img width="2321" height="959" alt="image" src="https://github.com/user-attachments/assets/3505aac6-5c9f-40fc-afb3-b9aed9ec7170" />
 
 ## BandwagonHost 介绍
 
